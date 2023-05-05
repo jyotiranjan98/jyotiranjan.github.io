@@ -15,8 +15,8 @@ function About() {
             </a>{" "}
             , self-motivated, hardworking aspiring full-stack web developer with
             in-depth knowledge of frontend. I love to build websites/application
-            that serves the world. <br></br>and always want to enhance my
-            knowledge & adpot new technologies that make impact on people.
+            that serves the world. <br></br>And always want to enhance my
+            knowledge & adopt new technologies that make impact on people.
           </p>
         </div>
       </div>
