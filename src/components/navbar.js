@@ -8,7 +8,7 @@ function Navbar() {
 
   const handleclick = () => {
     window.open(
-      "https://drive.google.com/file/d/1W7XhLpd4x6Hen1KtbGlOKwii5h5GBvF4/view?usp=sharing"
+      "https://drive.google.com/file/d/1li6cwL9joIz9PzvdvBCJhBBzO3azvuRi/view?usp=sharing"
     );
   };
 
