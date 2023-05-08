@@ -10,9 +10,9 @@ function About() {
         <div className="container__info container__location">
           <p>
             I am <em></em>
-            <a href="#" className="link">
+            <span className="link">
               Jyotiranjan Das
-            </a>{" "}
+            </span>
             , self-motivated, hardworking aspiring full-stack web developer with
             in-depth knowledge of frontend. I love to build websites/application
             that serves the world. <br></br>And always want to enhance my

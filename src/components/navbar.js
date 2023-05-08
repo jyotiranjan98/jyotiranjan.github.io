@@ -1,6 +1,6 @@
 import "../App.css";
 import { useState } from "react";
-import resume from "./JyotiranjanResume.pdf"
+import resume from "./Jyotiranjan_Das Resume.pdf"
 
 function Navbar() {
   const [toggle, settoggle] = useState(false);
@@ -8,7 +8,7 @@ function Navbar() {
 
   const handleclick = () => {
     window.open(
-      "https://drive.google.com/file/d/1li6cwL9joIz9PzvdvBCJhBBzO3azvuRi/view?usp=sharing"
+      "https://drive.google.com/file/d/1o4KC6OQlpfxF6OKHa7oZgq6pyLE2_yn8/view?usp=sharing"
     );
   };
 

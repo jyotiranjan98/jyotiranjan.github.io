@@ -128,8 +128,28 @@ function App() {
             ]}
           />
         </div>
+        <div className="top_left" data-aos={"zoom-in-up"}>
+          <Toproject
+            projectdata={"Youtube Clone"}
+            description={
+              "This project is the clone of Youtube.In this project i implemented Video search Keyword search and various video listing using youtube API where user can watch and search videos. Tech Stack: HTML, CSS, Javascript"
+            }
+            techStack={[
+              "tech/html_img.png",
+              "tech/css.png",
+              "tech/js.jpg",
+              
+            ]}
+            imges={["projects/youtube1.JPG", "projects/youtube3.JPG", "projects/youtube1.JPG"]}
+            links={[
+              "https://youtube-clone-jyotiranjan98.vercel.app/",
+              "https://github.com/jyotiranjan98/YoutubeClone",
+              // "https://player.vimeo.com/video/689858338?h=1e538fdf27",
+            ]}
+          />
+        </div>
         
-        <div
+        {/* <div
           className="stack-header"
           style={{ marginBottom: "45px" }}
           data-aos={"fade-right"}
@@ -138,7 +158,7 @@ function App() {
         </div>
         <div className="project_div">
           <Projects />
-        </div>
+        </div> */}
 
         <div className="github_div">
             <GitHub/>

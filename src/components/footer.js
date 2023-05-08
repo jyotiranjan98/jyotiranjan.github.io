@@ -7,11 +7,12 @@ function Footer() {
         <p className="highlight">To connect with me</p>
         <h2 className="head">Contact me</h2>
       </div>
-      <Form />
       <div className="credit maghia-details">
         <p><b>Email</b> - jyoti.das955@gmail.com</p>
         <p><b>Phone No - </b>+91-9556362078</p>
       </div>
+      <Form />
+      
       <div className="footer__div">
         <div>
           <span>
